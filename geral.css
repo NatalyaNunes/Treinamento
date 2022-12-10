@@ -1,52 +1,64 @@
-.bc-red{
+.bc-red {
     background-color: brown;
 }
-.bc-blue{
+
+.bc-blue {
     background-color: rgb(4, 4, 117);
 }
-.bc-grey{
+
+.bc-grey {
     background-color: rgba(211, 211, 211, 0.315);
 }
-.bc-purple{
+
+.bc-purple {
     background-color: rgba(212, 71, 247, 0.158);
 }
-.bc-white{
+
+.bc-white {
     background-color: white;
 }
-.bc-green{
+
+.bc-green {
     background-color: green;
 }
-.bc-dark-green{
+
+.bc-dark-green {
     background-color: rgb(1, 65, 1);
 }
-.bc-orange{
+
+.bc-orange {
     background-color: orangered;
 }
-.bc-black{
+
+.bc-black {
     background-color: black;
 }
-.tx-grey{
+
+.tx-grey {
     color: rgb(145, 145, 145);
 }
-.tx-purple{
+
+.tx-purple {
     color: rgba(128, 27, 153, 0.856);
 }
-.tx-white{
+
+.tx-white {
     color: white;
 }
-.tx-blue{
+
+.tx-blue {
     color: rgb(4, 4, 117);
 }
-.tx-center{
+
+.tx-center {
     text-align: center;
 }
-.pd{
-    padding: 1rem 1rem;
+
+a {
+    text-decoration: none;
+    font-weight: bold;
 }
-a{
-   text-decoration: none;
-   font-weight: bold;
-}
-.bd-radius{
+
+.bd-radius {
     border-radius: 1rem;
 }
